@@ -1,1 +1,1 @@
-# DoistyJava
+# Doisty for Java
